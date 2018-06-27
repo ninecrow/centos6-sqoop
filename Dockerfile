@@ -1,4 +1,4 @@
-FROM ninecrow/centos6-hadoop-cluster
+FROM ninecrow/centos6-hadoop-cluster:1.0.0
 MAINTAINER ninecrow <ninecrow@yeah.net>
 
 ENV SQOOP_HOME=/opt/sqoop
