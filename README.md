@@ -11,4 +11,4 @@ docker run -itd --name sqoop --hostname sqoop ninecrow/centos6-sqoop -d
 
 ### sqoop启动
     docker exec -it <container> /bin/bash -l 
-&emsp;&emsp; -l 参数进入容器后模拟bash login /etc/profile参数生效；
+&emsp;&emsp; -l 参数进入容器后模拟bash login /etc/profile参数生效.
